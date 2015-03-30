@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notifie</string>
+
+    <string name="enter_password">Hello</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_messages">messages</string>
+    <string name="title_activity_main">Notifie</string>
+
+
+    <string name="title_section1">Feed</string>
+    <string name="title_section2">Channels</string>
+    <string name="title_section3">Favorites</string>
+    <string name="title_section4">Settings</string>
+
+    <string name="sign_in">SignIn</string>
+
+    <string name="sign_in_err">Auth error</string>
+    <string name="sign_in_err_button">Retry</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_channels_fragment">ChannelsFragment</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
